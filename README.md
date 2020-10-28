@@ -22,10 +22,10 @@
 ##### data 폴더를 참조
 
 
-![image](\doc\data1.jpg)
+![image](https://github.com/vkdnjznd/rotar_helper/blob/master/doc/data1.jpg)
 
 
-![image](\doc\data2.jpg)
+![image](https://github.com/vkdnjznd/rotar_helper/blob/master/doc/data2.jpg)
 
 <br/>
 필요 라이브러리는 requirements.txt 를 참조
